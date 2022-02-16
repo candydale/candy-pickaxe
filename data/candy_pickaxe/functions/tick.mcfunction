@@ -1,0 +1,12 @@
+scoreboard players add @a[scores={pickaxe_0=1..}] pickaxe 1
+scoreboard players set @a[scores={pickaxe_0=1..}] pickaxe_0 0
+scoreboard players add @a[scores={pickaxe_1=1..}] pickaxe 1
+scoreboard players set @a[scores={pickaxe_1=1..}] pickaxe_1 0
+scoreboard players add @a[scores={pickaxe_2=1..}] pickaxe 1
+scoreboard players set @a[scores={pickaxe_2=1..}] pickaxe_2 0
+scoreboard players add @a[scores={pickaxe_3=1..}] pickaxe 1
+scoreboard players set @a[scores={pickaxe_3=1..}] pickaxe_3 0
+scoreboard players add @a[scores={pickaxe_4=1..}] pickaxe 1
+scoreboard players set @a[scores={pickaxe_4=1..}] pickaxe_4 0
+scoreboard players add @a[scores={pickaxe_5=1..}] pickaxe 1
+scoreboard players set @a[scores={pickaxe_5=1..}] pickaxe_5 0

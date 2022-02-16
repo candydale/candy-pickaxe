@@ -1,0 +1,7 @@
+scoreboard objectives remove pickaxe_0
+scoreboard objectives remove pickaxe_1
+scoreboard objectives remove pickaxe_2
+scoreboard objectives remove pickaxe_3
+scoreboard objectives remove pickaxe_4
+scoreboard objectives remove pickaxe_5
+scoreboard objectives remove pickaxe
